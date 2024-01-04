@@ -30,7 +30,7 @@ The structure of the course is centred around three 3-week blocks, where you wil
 
 ## Tentative Schedule
 | | Topic | Communication Task |
-|---|---|---|
+| --- | --- | --- |
 | Week 01: Jan 8 - 12 (Start of Experiment 01) | Course introduction; formulating a question and a plan | Research question and plan for Experiment #1 |
 | Week 02: Jan 15 - 19 | Fitting and figures in Python | Interim lab notes for Experiment 01 |
 | Week 03: Jan 22 - 26 (End of Experiment 01) | More fitting  | Complete set of lab notes for Experiment 01; should include a figure |
