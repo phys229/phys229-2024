@@ -29,21 +29,10 @@ The best way to contact the TAs is through Canvas messages
 The structure of the course is centred around three 3-week blocks, where you will engage with one experiment per block. The experiments are done with a lab partner, but all of your submitted materials will be your own work. The sophistication-level of your approaches to each experiment will build throughout the term as you incorporate the short mini-lessons from the start of each lab into your experimental methods, analysis approaches and communication output. Weekly communication tasks provide opportunities to apply what was learned from the mini-lessons and to receive feedback from the teaching team, where these small assignments are designed to gradually build up your skills across various aspects of scientific written and graphical communication. The final product at the end of the course will be a complete paper written on one of your experiments.
 
 ## Tentative Schedule
-| | Topic | Communication Task |
+| Date | Topic | Communication Task |
 | --- | --- | --- |
-| Week 01: Jan 8 - 12 (Start of Experiment 01) | Course introduction; formulating a question and a plan | Research question and plan for Experiment #1 |
-| Week 02: Jan 15 - 19 | Fitting and figures in Python | Interim lab notes for Experiment 01 |
-| Week 03: Jan 22 - 26 (End of Experiment 01) | More fitting  | Complete set of lab notes for Experiment 01; should include a figure |
-| Week 04: Jan 29 - Feb 2 (Start of Experiment 2) | Paper writing: the abstract | Abstract for Experiment 01 |
-| Week 05: Feb 5 - 9 | Paper writing: Methods section | Methods section for Experiment 02 |
-| Week 06: Feb 12 - 16 (End of Experiment 02) | Complex figures  | Complete set of lab notes for Experiment 02; should include a complex figure |
-| Week 07: Feb 26 - Mar 1 (Start of Experiment 3) | Paper writing: how to write a Conclusion | Conclusion paragraph for Experiment 02 |
-| Week 08: Mar 4 - 8 | Paper writing: posing a question and writing an Introduction | Introduction section for Experiment 03 |
-| Week 09: Mar 11 - 15 (End of Experiment 03) | Paper writing: putting it all together | Complete set of lab notes for Experiment 03 |
-| Week 10: Mar 18 - 22 (Start of Final Paper Support) | A summative figure with caption | Summative figure with Caption for Experiment 03 |
-| Week 11: Mar 25 - 29 | | First draft of final paper |
-| Week 12: Apr 1 - 5 | Feedback on Draft Papers | |
-| Week 13: Apr 8 - 12 | | Final draft of final paper |
+| Week 01: Jan 8 - 12 (Start of Experiment 01) | Course introduction; formulating a question and a plan | Research question and plan for Experiment 01 |
+
 
 
 ## Learning Outcomes
