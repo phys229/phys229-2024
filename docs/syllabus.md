@@ -7,9 +7,7 @@
 - **Prerequisites:** Either (a) one of PHYS 108, PHYS 118 and one of PHYS 109, PHYS 119; or (b) PHYS 102 or (c) all of PHYS 158, PHYS 159 or (d) SCIE 001.
 - **Corequisites:** Math 215
 
-```diff
-- ** Please note that the tutorial (Tuesdays 12:00-13:00 in	Hennings 202) will meet only once, on January 9th during the first week of classes.** -
-```
+<span style="color:red;">**Please note that the tutorial (Tuesdays 12:00-13:00 in	Hennings 202) will meet only once, on January 9th during the first week of classes**</span>
 
 ## Contacts
 - **Course Instructor:** Joss Ives
