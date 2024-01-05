@@ -84,7 +84,7 @@ We expect that all of your submitted work represents something where you have ma
 
 **Generative AI:** You are welcome to use ChatGPT and other generative AI to help support your writing and coding in this class. However, we are trying to develop *your* skills in this course so it is very important that you hold yourself to a high standard when it comes to making *significant intellectual contributions*. Asking ChatGPT to improve the grammar of a paragraph that you have written is a great way to make use of this type of resource, and ChatGPT is endlessly helpful when trying to make formatting changes to graphs. Please keep in mind the course's goal of developing your scientific reasoning skills and communicating that reasoning through writing. If your use of generative AI feels like it is circumventing this aspect of the course, this is where the use of generative AI will be at odds with the course's academic integrity policies.
 
-**Scientific integrity:** You should never invent or alter data as this something that completely undermines experimnetal science. Additionally, you should not take any aspect of work done by other students from this course (past or present) and present it as your own.
+**Scientific integrity:** You should never invent or alter data as this something that completely undermines experimental science. Additionally, you should not take any aspect of work done by other students from this course (past or present) and present it as your own.
 
 
 ## University Policies
