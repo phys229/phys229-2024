@@ -25,7 +25,9 @@ The best way to contact the TAs is through Canvas messages
 - Nane Vaedanyan
 
 ## Office Hours
-- TBD
+- Tuesdays 12-1pm in Hebb 418
+- Thursdays 1-2pm in Hebb 418
+- By appointment (please don't hesitate to reach out to Joss to schedule a meeting for some course support)
 
 ## Course Structure
 The structure of the course is centred around three 3-week blocks, where you will engage with one experiment per block. The experiments are done with a lab partner, but all of your submitted materials will be your own work. The sophistication-level of your approaches to each experiment will build throughout the term as you incorporate the short mini-lessons from the start of each lab into your experimental methods, analysis approaches and communication output. Weekly communication tasks provide opportunities to apply what was learned from the mini-lessons and to receive feedback from the teaching team, where these small assignments are designed to gradually build up your skills across various aspects of scientific written and graphical communication. The final product at the end of the course will be a complete paper written on one of your experiments.
