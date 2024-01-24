@@ -38,10 +38,10 @@ The structure of the course is centred around three 3-week blocks, where you wil
 | --- | --- | --- | --- |
 | Week 01: Jan 8 - 12 (Start of Experiment 01) | Course introduction; formulating a question and a plan | Research question and plan for Experiment 01 | Laboratory Notes |
 | Week 02: Jan 16 (L2A), Jan 24 (L2B), Jan 25 (L2C) | Fitting and figures in Python | Interim lab notes for Experiment 01 | Laboratory Notes |
-| Week 03: Jan 29 - Feb 2 | Paper writing: Methods section | Methods section for Experiment 02 | Communication Assignment |
+| Week 03: Jan 29 - Feb 2 | Paper writing: Methods section | Methods section for Experiment 01 | Communication Assignment |
 | Week 04: Feb 5 - 9 (End of Experiment 01) | More fitting | Complete set of lab notes for Experiment 01; should include a figure with a fit | Laboratory Notes |
-| Week 05: Feb 12 - 16 (Start of Experiment 02) | Paper writing: how to write a Conclusion | Conclusion paragraph for Experiment 02 | Communication Assignment |
-| Week 06: Feb 26 - Mar 1 | Paper writing: posing a question and writing an Introduction | Introduction section for Experiment 03 | Communication Assignment |
+| Week 05: Feb 12 - 16 (Start of Experiment 02) | Paper writing: how to write a Conclusion | Conclusion paragraph for Experiment 01 | Communication Assignment |
+| Week 06: Feb 26 - Mar 1 | Paper writing: posing a question and writing an Introduction | Introduction section for Experiment 02 | Communication Assignment |
 | Week 07: Mar 4 - 8 | Complex figures  | Interim set of lab notes for Experiment 02; should include a complex figure | Laboratory Notes |
 | Week 08: Mar 11 - 15 (End of Experiment 02) | Paper writing: putting it all together | Complete set of lab notes for Experiment 02 | Laboratory Notes |
 | Week 09: Mar 18 - 22 (Start of Final Paper Support) | Paper writing: the abstract | Abstract for Experiment 02 | Communication Assignment |
