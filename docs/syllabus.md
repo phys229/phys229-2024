@@ -81,7 +81,7 @@ Course materials will be provided primarily via Canvas, with Python-specific con
 
 ## Assessments of Learning
 Assessments of your work will be made primarily on the written materials that you submit. These involve three components: 
-* Your electronic notebooks, which includes weekly assessment of the quality of your notes, your data, and your data analysis. Additionally, we perform semi-frequent in-class notebook assessments, where we will assess the current state of your lab notebook and ask relevant follow-up questions.
+* Your electronic notebooks, which includes weekly assessment of the quality of your notes, your data, and your data analysis. Additionally, we will perform semi-frequent in-class notebook assessments, where we will assess the current state of your lab notebook and ask relevant follow-up questions.
 * Weekly communication tasks
 * A final paper with a format similar to a typical scientific publication, built up from the weekly communication assignments, and with an editing cycle where you submit a draft and receive feedback before final submission at the end of term. Additionally, we will schedule you for a brief oral quiz to follow-up on your first draft of your final paper. 
 
