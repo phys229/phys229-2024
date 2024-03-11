@@ -44,7 +44,7 @@ The structure of the course is centred around three 3-week blocks, where you wil
 | Week 06: Feb 26 - Mar 1 | Paper writing: posing a question and writing an Introduction | Introduction section for Experiment 02 | Communication Assignment |
 | Week 07: Mar 4 - 8 | Complex figures  | A complex figure with caption | Communication Assignment |
 | Week 08: Mar 11 - 15 (End of Experiment 02) | Paper writing: elements of a research paper | Complete set of lab notes for Experiment 02 | Laboratory Notes |
-| Week 09: Mar 18 - 22 (Start of Final Paper Support) | Paper writing: the abstract | Abstract for Experiment 02 | Communication Assignment |
+| Week 09: Mar 18 - 22 (Start of Final Paper Support) | ~~Paper writing: the abstract~~ | ~~Abstract for Experiment 02~~ | ~~Communication Assignment~~ |
 | Week 10: Mar 25 - 29 | | First draft of final paper | Final Paper |
 | Week 11: Apr 1 - 5 | Feedback on Draft Papers | | |
 | Week 12: Apr 8 - 12 | | Final draft of final paper | Final Paper |
