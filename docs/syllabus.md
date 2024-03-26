@@ -68,9 +68,9 @@ Assessments of your work will be made primarily on the written materials that yo
 
 Detailed rubrics for all of these components will be available within the each communication task's submission assignments. The overall grade scheme is:
 
-* 40%: Laboratory notes (9.5 points each, 2 points for the in-class notebook check) 
-* 30%: Communication assignments (7.5 points each)    
-* 30%: Final paper (18 points for the final draft, 9 points for the first draft, 3 points for the oral exam) 
+* 40%: Laboratory notes (9.5% each, 2% for the in-class notebook check) 
+* 30%: Communication assignments (7.5% each)    
+* 30%: Final paper (18% for the final draft, 9% for the first draft, 3% for the oral exam) 
 
 Because feedback on each communication task is typically important for your next lab session, we need to emphasize things being submitted on time. This will provide the TAs with sufficient time to grade/provide feedback and return the submitted tasks in advance of your next lab session. A 10% penalty will be applied to all late submissions and the deadline for late submissions is one week after the original due date.
 
