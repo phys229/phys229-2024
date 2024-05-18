@@ -1,4 +1,4 @@
-# PHYS 229 Syllabus
+# PHYS 229 Syllabus (2023W2)
 
 ## Course Information
 - **Course Title:** Intermediate Experimental Physics II
